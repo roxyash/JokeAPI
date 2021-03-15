@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="type">Тип Шутки</string>
+    <string name="Load">Загрузить</string>
+</resources>
